@@ -11,7 +11,7 @@ This is a simple calculator web application that I built with Next.js and Tailwi
 
 ## Getting Started
 
-Here is the link to the project : https://calculator-two-topaz-64.vercel.app/
+Here is the link to the project : [https://calculator-two-topaz-64.vercel.app/](https://calculator-five-wheat-57.vercel.app/)
 
 To run this project locally, follow these steps:
 
@@ -22,8 +22,7 @@ To run this project locally, follow these steps:
 
 ## Preview
 
-![image](https://github.com/Karim-Zaf/Calculator/assets/85990373/b4069af0-d125-4f2c-bc29-eaf10319a2f3)
-
+![image](https://github.com/Karim-Zaf/Calculator/assets/85990373/5a846243-3f05-4172-818e-238fb78d38f8)
 
 ## Contributing
 
